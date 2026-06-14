@@ -10,7 +10,7 @@ Currently, I’m focused on building and learning more about LLMs and AI systems
 ---
 #### Technical Skills
 Languages: Python, C/C++, HTML/CSS <br>
-Tools: PyCharm, Git, GitHub, Google Cloud Platform, Jupyter Notebook, VS Code <br>
+Tools: PyCharm, Git, GitHub, Google Colab, Jupyter Notebook, VS Code <br>
 Libraries/Frameworks: pandas, NumPy, Matplotlib, Seaborn, Pytest
 
 ---
