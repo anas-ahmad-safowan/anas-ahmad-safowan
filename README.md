@@ -8,20 +8,20 @@ I mostly work with Python and have experience in Machine Learning, and Deep Lear
 Currently, I’m focused on building and learning more about LLMs and AI systems.
 
 ---
-# Technical Skills
+### Technical Skills
 Languages: Python, C/C++, HTML/CSS
 Tools: PyCharm, Git, GitHub, Google Cloud Platform, VS Code, Visual Studio, MS Office
 Libraries/Frameworks: pandas, NumPy, Matplotlib, Seaborn, Pytest
 
 ---
-# Project/Thesis/Research Experience
+### Project/Thesis/Research Experience
 - An Efficient Credit Card Fraud Detection Model Using Machine Learning
 Approaches
 - Identifying Potential Malicious and Vulnerable Websites using Machine
 Learning and Deep Learning
 
 ---
-# A Bit ABout Me
+### A Bit ABout Me
 - CSE Graduate | AI Enthusiast
 - Reciter & Singer
 - National Awardee
