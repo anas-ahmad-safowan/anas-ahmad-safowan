@@ -1,3 +1,4 @@
+</> Markdown
 ## Hi there 👋
 I’m Safowan, a Computer Science Engineer from Bangladesh.
 
@@ -9,8 +10,8 @@ Currently, I’m focused on building and learning more about LLMs and AI systems
 
 ---
 ### Technical Skills
-Languages: Python, C/C++, HTML/CSS
-Tools: PyCharm, Git, GitHub, Google Cloud Platform, VS Code, Visual Studio, MS Office
+Languages: Python, C/C++, HTML/CSS <br>
+Tools: PyCharm, Git, GitHub, Google Cloud Platform, VS Code, Visual Studio, MS Office <br>
 Libraries/Frameworks: pandas, NumPy, Matplotlib, Seaborn, Pytest
 
 ---
