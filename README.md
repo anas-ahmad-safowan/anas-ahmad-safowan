@@ -20,7 +20,7 @@ Approaches
 2. Identifying Potential Malicious and Vulnerable Websites using Machine
 Learning and Deep Learning
 ---
-#### A Bit ABout Me
+#### A Bit About Me
 - CSE Graduate | Aspiring Researcher in AI/LLM Security
 - Reciter & Singer
 - National Awardee
