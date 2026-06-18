@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Safowan, a Computer Science Engineer from Bangladesh. <br>
+I'm Safowan, a Computer Science and Engineering graduate from Daffodil International University, Dhaka, Bangladesh.<br>
 
 My research interests encompass the broader domain of Artificial Intelligence, with a specific focus on Machine Learning, Deep Learning and Computer Vision. I’m passionate about Large Language Models (LLMs), research-driven innovation, and developing intelligent, secure, and impactful AI solutions.<br>
 
