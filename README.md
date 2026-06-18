@@ -1,8 +1,7 @@
 ### Hi there 👋
 I’m Safowan, a Computer Science Engineer from Bangladesh. <br>
 
-I’m passionate about Large Language Models (LLMs), Artificial Intelligence, and research-driven innovation.
-I enjoy exploring how intelligent systems can be made more secure, useful, and impactful in real-world applications. <br>
+My research interests encompass the broader domain of Artificial Intelligence, with a specific focus on Machine Learning, Deep Learning and Computer Vision. I’m passionate about Large Language Models (LLMs), research-driven innovation, and developing intelligent, secure, and impactful AI solutions.<br>
 
 I mostly work with Python and have experience in Machine Learning, and Deep Learning. <br>
 Currently, I’m focused on building and learning more about LLMs and AI systems.
